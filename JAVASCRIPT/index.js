@@ -1,5 +1,5 @@
     // Create Array
-let arNum = [1, 3, 5, 7, 9, 11];
+let arNum = [1, 2, 3, 4, 5, 6, 7, 8, 9,];
 let n = 0
         // Creating Variables for button and display
         let nextInput = document.getElementById('nextInput');
